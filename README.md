@@ -63,7 +63,7 @@ Our portfolio includes innovative projects designed across multiple domains with
 
 ## 📊 Project Portfolio
 
-✔ 95+ AI & ML Projects
+✔ 90+ AI & ML Projects
 
 ✔ Computer Vision Applications
 
